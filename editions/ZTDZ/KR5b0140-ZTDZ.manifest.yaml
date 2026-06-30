@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0140/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0140/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶三元品戒功德輕重經
+  date: '2015-08-28 23:49:56.951691'
+  source:
+    repository: kanripo
+    path: KR5b0140
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0140_000-ZTDZ.yaml, hash: 'sha256:5482e4a4fea4fb7d6ec8fc7b2af009d4ad77109224174226c02ad0a1904b50a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0140_000-ZTDZ.markers.yaml, hash: 'sha256:961dc5a8133f51fc3a43c4af895d743f2ab7e2b50af94593f4e793de39df2a76'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0140_SJB_000-060873a
+    span:
+    - body
+    - 0
+    - 9946
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:29a850e09bfa26331193d76b60eb5c7a9a999a534c9f62ccb0233e1f699fd261
